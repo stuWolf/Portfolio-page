@@ -1,0 +1,42 @@
+/* style starts here */
+
+body{
+background-color: blue;
+margin:0;
+}
+
+header {
+    background-color: chocolate;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+header h1 {
+    color: chartreuse;
+}
+
+.logo {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.nav-items {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items a{
+    text-decoration: none;
+    color: darkorange;
+    font-size: 1.5rem;
+
+}
+/* mobile doesnt hover */
+.nav-items a:hover{
+
+}
