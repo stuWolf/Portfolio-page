@@ -45,3 +45,9 @@ header {
 
 }
 ```
+
+## wireframe
+
+!["Figma view"](./images/)
+
+!["Browser view"](./images/)
